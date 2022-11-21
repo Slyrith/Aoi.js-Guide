@@ -1,6 +1,4 @@
-# Page 1
-
-## Aoi.js Guide
+# Aoi.js Guide
 
 Find lots of guides for Aoi.js in this repository!
 
