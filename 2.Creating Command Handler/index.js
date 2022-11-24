@@ -12,11 +12,6 @@ bot.onMessage()
 const loader = new aoijs.LoadCommands(bot)
 loader.load(bot.cmd,"./commands/")
 
-//Command Example (ping)
-bot.command({
-name: "ping",
-code: `Pong! $pingms`
-})
 
 //Ready Event
 bot.readyCommand({
